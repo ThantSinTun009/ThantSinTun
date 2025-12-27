@@ -35,7 +35,7 @@
 ## 🛠 Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,go,tensorflow,sklearn,vscode,git,linux"/>
+  <img src="https://skillicons.dev/icons?i=python,java,r,tensorflow,sklearn,vscode,git"/>
 </p>
 
 --- 
