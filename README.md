@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist | AI & Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </p>
 
 ---
@@ -25,7 +25,7 @@
   <a href="https://t.me/syn_c03" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram"/>
   </a>
-  <a href="linkedin.com/in/thant-sin-tun-252238316" target="_blank">
+  <a href="https://linkedin.com/in/thant-sin-tun-252238316" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
