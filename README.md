@@ -31,7 +31,7 @@
   </a>
   
   <a href="https://medium.com/@thantsintun333" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-26A5E4?style=flat-square&logo=medium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Medium-26A5E4?style=flat-square&logo=medium&logoColor=white"/>
   </a>
   
   <a href="https://linkedin.com/in/thant-sin-tun-252238316" target="_blank">
