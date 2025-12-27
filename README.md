@@ -13,7 +13,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - 🔥 Passionate about **building intelligent systems**
 - 🤖 Interested in **Machine Learning, Data Science & AI Ethics**
@@ -23,7 +23,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://facebook.com/" target="_blank">
@@ -39,7 +39,7 @@
 
 ---
 
-## 🛠 Languages & Tools
+## Languages, ML Frameworks & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,mysql,tensorflow,sklearn,vscode,git&perline=7" />
@@ -47,7 +47,7 @@
 
 ---
 
-## 🚀 Focus Areas
+## Focus Areas
 
 - 🤖 Machine Learning & AI
 - 📊 Natural Language Processing (NLP)
@@ -56,6 +56,6 @@
 
 ---
 
-## ✨ Philosophy
+## Philosophy
 
 > ⭐ *“Learning never exhausts the mind.”*
