@@ -35,7 +35,7 @@
   </a>
 
   <a href="https://linkedin.com/in/thant-sin-tun-252238316" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&cacheSeconds=3600"/>
 
   </a>
 </p>
