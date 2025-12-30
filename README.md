@@ -56,7 +56,3 @@
 - Real-world impact projects
 
 ---
-
-## Philosophy
-
-> ⭐ *“Learning never exhausts the mind.”*
