@@ -80,7 +80,11 @@
 </table>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ThantSinTun009&theme=dark&hide_border=true)](https://git.io/streak-stats)
+## Testing
+
+| GitHub Streak | LeetCode |
+|--------------|----------|
+| ![](https://github-readme-streak-stats.herokuapp.com?user=ThantSinTun009&theme=dark&hide_border=true) | ![](https://leetcard.jacoblin.cool/thant_sin_tun?theme=catppuccinMocha&font=Prompt&ext=heatmap) |
 
 ---
 
