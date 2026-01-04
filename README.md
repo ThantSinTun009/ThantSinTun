@@ -60,15 +60,21 @@
 #### GitHub Activity & Stats
 
 <table>
-    <tr>
-        <td>
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThantSinTun009&show_icons=true&theme=tokyonight&rank_icon=percentile"/>
-        </td>
-        <td>
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThantSinTun009&layout=compact&theme=vue-dark&hide_border=true"/>
-        </td>
-    </tr>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThantSinTun009&show_icons=true&theme=tokyonight&rank_icon=percentile&token=YOUR_TOKEN_HERE" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThantSinTun009&layout=compact&theme=vue-dark&hide_border=true&token=YOUR_TOKEN_HERE" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThantSinTun009&theme=tokyonight" />
+    </td>
+  </tr>
 </table>
+
 
 <table>
     <tr>
