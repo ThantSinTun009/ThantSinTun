@@ -65,7 +65,7 @@
             <img align="center" src="https://leetcard.jacoblin.cool/thant_sin_tun?theme=catppuccinMocha&font=Prompt&ext=heatmap"/>
         </td>
         <td>
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thant_sin_tun&theme=dark&hide_border=true">
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThantSinTun009&theme=dark&hide_border=true">
         </td>
     </tr>
 </table>
