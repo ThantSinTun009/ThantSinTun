@@ -73,7 +73,7 @@
 <table>
     <tr>
         <td>
-            <img align="center" src="https://leetcard.jacoblin.cool/ThantSinTun009?theme=catppuccinMocha&font=Prompt&ext=heatmap"/>
+            <img align="center" src="https://leetcard.jacoblin.cool/thant_sin_tun?theme=catppuccinMocha&font=Prompt&ext=heatmap"/>
         </td>
         <td>
             <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thant_sin_tun&theme=dark&hide_border=true">
