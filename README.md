@@ -58,7 +58,7 @@
 ### 🎓 Certifications & Courses
 - **Machine Learning Specialization** — Coursera  
   *Instructor:* Andrew Ng  
-  *Certificate:* [View Certificate]([(https://coursera.org/verify/specialization/87XBJ2ZSNRS7)])
+  *Certificate:* [View Certificate](https://coursera.org/verify/specialization/87XBJ2ZSNRS7)
 
 ---
 
