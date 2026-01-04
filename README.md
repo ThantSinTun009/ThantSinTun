@@ -59,13 +59,24 @@
 
 #### GitHub Activity & Stats
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThantSinTun009&show_icons=true&theme=tokyonight&rank_icon=percentile&token=Token" />
     </td>
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThantSinTun009&layout=compact&theme=vue-dark&hide_border=true&token=Token" />
+    </td>
+  </tr>
+</table> -->
+
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThantSinTun009&show_icons=true&theme=tokyonight&rank_icon=percentile" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThantSinTun009&layout=compact&theme=vue-dark&hide_border=true" />
     </td>
   </tr>
 </table>
