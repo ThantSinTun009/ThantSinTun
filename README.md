@@ -57,11 +57,20 @@
 
 ### 🎓 Certifications & Courses
 
-<img src="assets/coursera-ml-certificate.jpg" width="500"/>
-
-**Machine Learning Specialization** — Coursera  
-*Instructor:* Andrew Ng • **Completed** ✅
-*Verification:* [View Certificate](https://coursera.org/verify/specialization/87XBJ2ZSNRS7)
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/coursera-ml-certificate.jpg" width="300"/><br/>
+      <b>Machine Learning Specialization</b><br/>
+      Coursera • Instructor: Andrew Ng • Completed ✅
+    </td>
+    <td align="center">
+      <img src="assets/google-ada-certificate.jpg" width="300"/><br/>
+      <b>Advanced Data Analytics</b><br/>
+      Google • Completed ✅
+    </td>
+  </tr>
+</table>
 
 ---
 
