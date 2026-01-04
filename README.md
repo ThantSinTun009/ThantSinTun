@@ -56,3 +56,40 @@
 - Real-world impact projects
 
 ---
+
+#### GitHub Activity & Stats
+
+<table>
+    <tr>
+        <td>
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThantSinTun009&show_icons=true&theme=tokyonight&rank_icon=percentile"/>
+        </td>
+        <td>
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThantSinTun009&layout=compact&theme=vue-dark&hide_border=true"/>
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td>
+            <img align="center" src="https://leetcard.jacoblin.cool/ThantSinTun009?theme=catppuccinMocha&font=Prompt&ext=heatmap"/>
+        </td>
+        <td>
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThantSinTun009&theme=dark&hide_border=true">
+        </td>
+    </tr>
+</table>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=ThantSinTun009&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+### 🗓️ Contributions Calendar
+
+[![ThantSinTun009's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThantSinTun009&theme=github-dark)](https://github.com/ThantSinTun009)
+
+---
+
