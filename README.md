@@ -60,7 +60,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="assets/coursera-ml-certificate.jpg" width="300"/><br/>
+      <img src="assets/coursera-ml-certificate.jpg" width="350"/><br/>
       <b>Machine Learning Specialization</b><br/>
       Coursera • Instructor: Andrew Ng • Completed ✅
     </td>
