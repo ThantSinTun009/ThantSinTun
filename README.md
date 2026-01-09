@@ -44,11 +44,10 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,postgresql,tensorflow,sklearn,vscode,git&perline=7" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain-logo.svg" height="48"/>
-  <img src="https://raw.githubusercontent.com/run-llama/llama_index/main/docs/_static/logo.svg" height="48"/>
+  <br/><br/>
   <img src="https://img.shields.io/badge/LangChain-🦜🔗-green?style=for-the-badge" />
 </p>
+
 
 
 
