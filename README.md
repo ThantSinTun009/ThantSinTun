@@ -43,11 +43,11 @@
 ## Languages, ML Frameworks & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,postgres,tensorflow,sklearn,vscode,git&perline=7" />
-
-  
+  <img src="https://skillicons.dev/icons?i=python,r,postgresql,tensorflow,sklearn,vscode,git&perline=7" />
+  <br/>
   <img src="https://img.shields.io/badge/LangChain-🦜🔗-green?style=for-the-badge" />
 </p>
+
 
 ---
 
