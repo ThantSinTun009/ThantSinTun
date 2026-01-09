@@ -46,6 +46,9 @@
   <img src="https://skillicons.dev/icons?i=python,r,postgres,tensorflow,sklearn,vscode,git&perline=7" />
 </p>
 
+<img src="https://img.shields.io/badge/LangChain-🦜🔗-green?style=for-the-badge" />
+
+
 ---
 
 ## Focus Areas
