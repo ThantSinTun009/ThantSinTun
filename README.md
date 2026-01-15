@@ -83,6 +83,11 @@
       <b>Advanced Data Analytics</b><br/>
       Google • Completed ✅
     </td>
+    <td align="center">
+      <img src="assets/ds_associate" width="200"/><br/>
+      <b>Data Scientist Associate</b><br/>
+      DataCamp • Certified ✅
+    </td>
   </tr>
 </table>
 
