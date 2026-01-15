@@ -71,8 +71,6 @@
 
 ### 🎓 Certifications & Courses
 
-<h2>🎓 Certifications & Courses</h2>
-
 <table width="100%" align="center">
   <tr>
     <td align="center" width="33%">
@@ -82,12 +80,12 @@
       Completed ✅
     </td>
     <td align="center" width="33%">
-      <img src="assets/google-ada-certificate.jpg" width="240" alt="Advanced Data Analytics"/><br/><br/>
+      <img src="assets/google-ada-certificate.jpg" width="150" alt="Advanced Data Analytics"/><br/><br/>
       <b>Advanced Data Analytics</b><br/><br/>
       Google · Completed ✅
     </td>
     <td align="center" width="33%">
-      <img src="assets/ds_associate.png" width="240" alt="Data Scientist Associate"/><br/><br/>
+      <img src="assets/ds_associate.png" width="150" alt="Data Scientist Associate"/><br/><br/>
       <b>Data Scientist Associate</b><br/><br/>
       DataCamp · Certified ✅
     </td>
