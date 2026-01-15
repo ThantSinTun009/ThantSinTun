@@ -79,7 +79,7 @@
   <tr>
     <td align="center" width="33%">
       <img src="assets/coursera-ml-certificate.jpg" width="300" alt="Machine Learning Specialization"/><br/><br/>
-      <b>Machine Learning<br/>Specialization</b><br/><br/>
+      <b>Machine Learning Specialization</b><br/><br/>
       Coursera · Completed ✅
     </td>
     <td align="center" width="33%">
