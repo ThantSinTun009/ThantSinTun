@@ -1,25 +1,22 @@
-<h1 align="center">Hi there 👋 I'm Thant Sin Tun</h1>
-<p align="center">
-  <b>Self-taught Data Scientist • AI & Machine Learning Enthusiast</b>
-</p>
-
-<table align="center">
+<table width="100%" align="center">
   <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
+    <!-- LEFT: Intro + GIF -->
+    <td width="65%" align="center">
+      <h1>Hi there 👋 I'm Thant Sin Tun</h1>
+      <p>
+        <b>Self-taught Data Scientist • AI & Machine Learning Enthusiast</b>
+      </p>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" /><br/><br/>
+      <i>Turning data into insight, curiosity into skill.</i>
     </td>
-    <td align="center" width="40">
-    </td>
-    <td align="center">
-      <img src="assets/ds_associate.png" width="140" alt="Data Scientist Associate Badge"/><br/><br/>
+    <!-- RIGHT: Badge -->
+    <td width="35%" align="center">
+      <img src="assets/ds_associate.png" width="150" alt="Data Scientist Associate Badge"/><br/><br/>
+      <b>Data Scientist Associate</b><br/>
+      DataCamp · Certified ✅
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <i>Turning data into insight, curiosity into skill.</i>
-</p>
-
 ---
 
 
