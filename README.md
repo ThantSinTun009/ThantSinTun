@@ -5,15 +5,14 @@
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
+    <td align="left">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
     </td>
     <td align="center" width="40">
     </td>
-    <td align="center">
-      <img src="assets/ds_associate.png" width="140" alt="Data Scientist Associate Badge"/><br/><br/>
+    <td align="right">
+      <img src="assets/ds_associate.png" width="100" alt="Data Scientist Associate Badge"/><br/><br/>
       <b>Data Scientist Associate</b><br/>
-      DataCamp · Certified ✅
     </td>
   </tr>
 </table>
