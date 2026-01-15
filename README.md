@@ -5,12 +5,12 @@
 
 <table align="center">
   <tr>
-    <td align="left">
+    <td align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
     </td>
     <td align="center" width="40">
     </td>
-    <td align="right">
+    <td align="center">
       <img src="assets/ds_associate.png" width="100" alt="Data Scientist Associate Badge"/><br/><br/>
       <b>Data Scientist Associate</b><br/>
     </td>
