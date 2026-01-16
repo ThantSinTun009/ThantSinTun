@@ -133,9 +133,14 @@ A self-driven learner aiming to become a responsible AI practitioner.
 
 ---
 
-<div align="center">
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ThantSinTun009&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=ThantSinTun009&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+</div> -->
 
 ### 🗓️ Contributions Calendar
 
