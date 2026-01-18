@@ -25,6 +25,8 @@ Currently learning Python, ML algorithms, time-series analysis, and deep learnin
 
 A self-driven learner aiming to become a responsible AI practitioner.
 
+---
+
 <!-- Profile Views Counter with Animation -->
 <div align="center">
   
