@@ -28,16 +28,13 @@ A self-driven learner aiming to become a responsible AI practitioner.
 ---
 
 <!-- Profile Views Counter with Animation -->
-<div align="center">
+<div>
   
-  <img src="https://komarev.com/ghpvc/?username=ThantSinTun009&color=1a293f&style=for-the-badge&label=PROFILE+VIEWS&labelColor=1a293f" />
+<img src="https://komarev.com/ghpvc/?username=ThantSinTun009&color=1a293f&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/ThantSinTun009?label=FOLLOWERS&style=for-the-badge&color=1a293f&labelColor=0d1117" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/ThantSinTun009?label=STARS&style=for-the-badge&color=1a293f&labelColor=0d1117" alt="Stars"/>
 
-  <img src="https://img.shields.io/github/followers/ThantSinTun009?label=FOLLOWERS&style=for-the-badge&color=1a293f&labelColor=1a293f" />
-
-  <img src="https://img.shields.io/github/stars/ThantSinTun009?label=STARS&style=for-the-badge&color=1a293f&labelColor=1a293f" />
-  
 </div>
-
 ---
 
 ## Connect with Me
