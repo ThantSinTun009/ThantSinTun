@@ -21,7 +21,7 @@
 
 Passionate about building intelligent systems with interests in Machine Learning, Deep Learning, and Neural Networks.  
 
-Currently learning Python, ML algorithms, time-series analysis, and deep learning architectures.  
+Currently learning Python, DSA, ML algorithms, time-series analysis, and deep learning architectures.  
 
 A self-driven learner aiming to become a responsible AI practitioner.
 
