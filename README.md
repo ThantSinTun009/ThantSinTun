@@ -60,7 +60,7 @@ A self-driven learner aiming to become a responsible AI practitioner.
 ## Languages, ML Frameworks & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,postgresql,tensorflow,sklearn,vscode,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,r,postgresql,tensorflow,sklearn,vscode,git,docker&perline=8" />
   <br/><br/>
   <img src="https://img.shields.io/badge/LangChain-🦜🔗-green?style=for-the-badge" />
   <!-- <img src="https://img.shields.io/badge/Hugging%20Face-🤗-yellow?style=for-the-badge" />
