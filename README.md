@@ -107,15 +107,14 @@ A self-driven learner aiming to become a responsible AI practitioner.
 ## GitHub Activity & Stats
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ThantSinTun009&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ThantSinTun009&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats"/>
 </div> 
 
-<br><br>
+---
 
 <div align="center"> 
-  <img src="https://leetcard.jacoblin.cool/thant_sin_tun?theme=catppuccinMocha&font=Prompt&ext=heatmap"/> 
-  
-</div>>
+  <img height="180" src="https://leetcard.jacoblin.cool/thant_sin_tun?theme=catppuccinMocha&font=Prompt&ext=heatmap"/> 
+</div>
 
 ---
 
