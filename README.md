@@ -106,18 +106,18 @@ A self-driven learner aiming to become a responsible AI practitioner.
 
 ## GitHub Activity & Stats
 
-<!-- Overall stats -->
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThantSinTun009&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThantSinTun009&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThantSinTun009&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThantSinTun009&layout=compact&theme=tokyonight" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
-<!-- Streak stats -->
-<p>
-  <img height="200" src="https://streak-stats.demolab.com?user=ThantSinTun009&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-</p>
-
----
+<br/><br/>
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/thant_sin_tun?theme=catppuccinMocha&font=Prompt&ext=heatmap"/>
