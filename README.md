@@ -107,20 +107,25 @@ A self-driven learner aiming to become a responsible AI practitioner.
 ## GitHub Activity & Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ThantSinTun009&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats"/>
-</div> 
+  <table>
+    <tr>
+      <td>
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=ThantSinTun009&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img height="300" src="https://leetcard.jacoblin.cool/thant_sin_tun?theme=catppuccinMocha&font=Prompt&ext=heatmap" alt="LeetCode Card"/>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <a href="https://www.hackerrank.com/thantsintun333">
+    <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank" alt="HackerRank"/>
+  </a>
+</div>
+
 
 ---
 
-<div align="center"> 
-  <img height="300" src="https://leetcard.jacoblin.cool/thant_sin_tun?theme=catppuccinMocha&font=Prompt&ext=heatmap"/> 
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=ThantSinTun009&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
 
 ### 🗓️ Contributions Calendar
 
