@@ -114,15 +114,16 @@ A self-driven learner aiming to become a responsible AI practitioner.
       </td>
       <td>
         <img src="https://leetcard.jacoblin.cool/thant_sin_tun?theme=catppuccinMocha&font=Prompt&ext=heatmap" alt="LeetCode Card"/>
-        <br><br>
-        <a href="https://www.hackerrank.com/thantsintun333">
-          <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank" alt="HackerRank"/>
-        </a>
       </td>
     </tr>
   </table>
 </div>
 
+<br><br>
+
+<a href="https://www.hackerrank.com/thantsintun333">
+  <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank" alt="HackerRank"/>
+</a>
 
 ---
 
