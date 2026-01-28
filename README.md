@@ -116,8 +116,11 @@ A self-driven learner aiming to become a responsible AI practitioner.
   </a>
 </div>
 
-
 ---
+
+<!-- <p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=ThantSinTun009" alt="GitHub Insights" />
+</p> -->
 
 
 ### 🗓️ Contributions Calendar
