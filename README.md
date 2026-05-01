@@ -68,10 +68,10 @@ A self-driven learner aiming to become a responsible AI practitioner. <a href="h
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,postgresql,pytorch,tensorflow,sklearn,vscode,git,docker&perline=8" />
   <br/><br/>
-  <!-- <img src="https://img.shields.io/badge/LangChain-🦜🔗-green?style=for-the-badge" /> -->
-  <!-- <img src="https://img.shields.io/badge/Hugging%20Face-🤗-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-🦜🔗-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-🤗-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MLflow-Experiment%20Tracking-lightblue?style=for-the-badge&logo=mlflow" />
+  <!-- <img src="https://img.shields.io/badge/MLflow-Experiment%20Tracking-lightblue?style=for-the-badge&logo=mlflow" />
   <img src="https://img.shields.io/badge/MLOps-Model%20Lifecycle-orange?style=for-the-badge" /> -->
 </p>
 
