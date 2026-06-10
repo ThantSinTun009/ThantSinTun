@@ -19,9 +19,10 @@
 
 ## About Me
 
+
 Passionate about building intelligent systems with interests in Machine Learning, Deep Learning, and Neural Networks.  
 
-Currently learning Python, DSA, ML algorithms, time-series analysis, and deep learning architectures.  
+Currently learning LLMs, RAG, Langchain, Fine-tuning & Deep learning architectures.  
 
 A self-driven learner aiming to become a responsible AI practitioner. <a href="https://www.leetcode.com/thant_sin_tun" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thant_sin_tun" height="35" width="45" />
