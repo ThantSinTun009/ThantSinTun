@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Thant Sin Tun</h1>
 <p align="center">
-  <b>Self-taught Data Scientist • AI & Machine Learning Enthusiast</b>
+  <b>AI Enginnering Intern • NLP Enthusiast</b>
 </p>
 
 <p align="center">
