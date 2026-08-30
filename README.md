@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
+  <img src="assets/I don't know what I'm doing.gif" width="260" />
 </p>
 
 <p align="center">
@@ -13,7 +13,10 @@
 
 ---
 
-<img width="1128" height="191" alt="DS Associate - LinkedIn" src="https://github.com/user-attachments/assets/9881dcb6-3e60-449c-a987-cebbb1a2b088" />
+<img width="1800" height="300" alt="image" src="https://github.com/user-attachments/assets/b9b5ddd7-7ab9-4193-a334-57e0590288cd" />
+
+
+<!-- <img width="1128" height="191" alt="DS Associate - LinkedIn" src="https://github.com/user-attachments/assets/9881dcb6-3e60-449c-a987-cebbb1a2b088" /> -->
 
 ---
 
@@ -81,9 +84,17 @@ A self-driven learner aiming to become a responsible AI practitioner. <a href="h
 ## Focus Areas
 
 - Machine Learning, Deep Learning & Artificial Intelligence
-- Natural Language Processing (NLP) & LLMs
-- Retrieval-Augmented Generation (RAG)
-- MLOps & Model Lifecycle Management
+<img src=https://camo.githubusercontent.com/5a9282c62a207a282bc157a0ed3bea391cbe9bd0539491aab91fe1ed92547981/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f666978706172726f742e676966 width="33"
+  />
+- Natural Language Processing (NLP) & LLMs <img 
+src= https://camo.githubusercontent.com/2b5dccad44d0508888b9c7bd80c92b385f5c6a930cadb1a413aa4b04b7e661bd/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f736369656e6365706172726f742e676966 width="33"
+  />
+
+- Retrieval-Augmented Generation (RAG) <img src= https://camo.githubusercontent.com/26958772a177631f2ba759431279f2ccb173c29f93f358adcb1d44059d193673/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966 width="30"
+  />
+  
+- MLOps & Model Lifecycle Management <img src= https://camo.githubusercontent.com/242ff63f07db8e98fe82bf85ab34c815393145b9f5431688654b0d28161eaaad/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966 width="30"
+  />
 
 ---
 
@@ -126,6 +137,7 @@ A self-driven learner aiming to become a responsible AI practitioner. <a href="h
 ### 🗓️ Contributions Calendar
 
 <!-- [![ThantSinTun009's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThantSinTun009&theme=github-dark)](https://github.com/ThantSinTun009) -->
+
 
 ---
 
