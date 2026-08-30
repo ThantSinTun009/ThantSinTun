@@ -25,7 +25,7 @@
 
 Passionate about building intelligent systems with interests in Machine Learning, Deep Learning, and Neural Networks.  
 
-Currently learning LLMs, RAG, Langchain, Fine-tuning & Deep learning architectures.  
+Currently learning LLM architectures, Fine-tuning and RAG specializing in Natural Language Engineering.
 
 A self-driven learner aiming to become a responsible AI practitioner. <a href="https://www.leetcode.com/thant_sin_tun" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thant_sin_tun" height="35" width="45" />
@@ -83,7 +83,7 @@ A self-driven learner aiming to become a responsible AI practitioner. <a href="h
 
 ## Focus Areas
 
-- Machine Learning, Deep Learning & Artificial Intelligence
+- Machine Learning, Deep Learning & Neural Networks
 <img src=https://camo.githubusercontent.com/5a9282c62a207a282bc157a0ed3bea391cbe9bd0539491aab91fe1ed92547981/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f666978706172726f742e676966 width="33"
   />
 - Natural Language Processing (NLP) & LLMs <img 
@@ -136,7 +136,7 @@ src= https://camo.githubusercontent.com/2b5dccad44d0508888b9c7bd80c92b385f5c6a93
 
 ### 🗓️ Contributions Calendar
 
-<!-- [![ThantSinTun009's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThantSinTun009&theme=github-dark)](https://github.com/ThantSinTun009) -->
+[![ThantSinTun009's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThantSinTun009&theme=github-dark)](https://github.com/ThantSinTun009)
 
 
 ---
