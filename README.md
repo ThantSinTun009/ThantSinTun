@@ -125,7 +125,7 @@ A self-driven learner aiming to become a responsible AI practitioner. <a href="h
 
 ### 🗓️ Contributions Calendar
 
-[![ThantSinTun009's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThantSinTun009&theme=github-dark)](https://github.com/ThantSinTun009)
+<!-- [![ThantSinTun009's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThantSinTun009&theme=github-dark)](https://github.com/ThantSinTun009) -->
 
 ---
 
